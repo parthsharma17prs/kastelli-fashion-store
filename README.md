@@ -17,3 +17,23 @@ A luxury e-commerce mobile application showcasing high-fidelity fashion retail e
 
 ---
 *Developed by Parth Sharma Studio*
+
+## 💎 Advanced Visual Aesthetics
+- **Tactile Feedback**: Haptic/vibration patterns configured on core checkout and CTA triggers.
+- ** Curated Colors**: Tailored HSL scheme designed for elegant contrasts under both light and dark mode ambient settings.
+- **Micro-interactions**: Scale gestures (e.g. `0.98` scale down on press) for high-tactility, premium response.
+- **Details**: Utilizes optimized FlashList components for endless product grids and pre-fetched image caching to maintain a fluid 120Hz frame rate.
+
+## 🏁 Run & Installation Instructions
+1. Clone this repository.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the application:
+   ```bash
+   npm start
+   ```
+
+---
+*Created and maintained with ❤️ by Parth Sharma Studio.*
